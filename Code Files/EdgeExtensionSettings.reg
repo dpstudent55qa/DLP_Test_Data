@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"ExtensionManifestV2Availability"=dword:00000003
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\3rdparty]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\3rdparty\extensions]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\3rdparty\extensions\oedggboaecbkcpnmkmdglidmfblggplg]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\3rdparty\extensions\oedggboaecbkcpnmkmdglidmfblggplg\policy]
+"accessToken"="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwczovL2xvZ2luLmlzbGFuZC5pby90ZW5hbnRJZCI6ImRwYWsxIiwiaHR0cHM6Ly9sb2dpbi5pc2xhbmQuaW8vdmVyc2lvbiI6NSwianRpIjoiZTY5Y2NiZmEtZjRhZi00ZmU2LTlmZmQtMDQ2ZWNiMmMzMzRlIiwiZ2l2ZW5fbmFtZSI6IlFBIERGVyIsImZhbWlseV9uYW1lIjpudWxsLCJuYW1lIjoiUUEgREZXICIsImVtYWlsIjoiaXNsYW5kLWV4dGVuc2lvbi11c2VyQGNjYzNlODExLTM5MjQtNGY3OC1iZGYzLWM0NmFkNGE2N2I5MSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6ImlzbGFuZC1leHRlbnNpb24tdXNlckBjY2MzZTgxMS0zOTI0LTRmNzgtYmRmMy1jNDZhZDRhNjdiOTEiLCJlbmRwb2ludF9hZ2VudCI6IkZhbHNlIiwiYXVkIjoiaHR0cHM6Ly9hdXRoMC1qd3QtYXV0aG9yaXplciIsImlzcyI6Imh0dHBzOi8vaW50ZXJuYWwuaXNsYW5kLmlvIiwiYXpwIjoiVzd1QUN5UW9EQzg4eldaN2JWTzBza2VpRTJBYUwzRGUiLCJzdWIiOiJzYW1scHxpc2xhbmQtc2FtbC1tYy1wcm9kdWN0aW9ufDAwdXBvdm1taGJTRmt2M1hNNWQ3IiwiaHR0cHM6Ly9pc2xhbmQuaW8vY2xhaW1zL2FsbG93VXNlckRldGFpbHNGcm9tSGVhZGVycyI6InRydWUiLCJleHAiOjIwNjk3MDQ5NjQsImlhdCI6MTc1NDM0NDk2NH0.SEg1X19MNnAc41q_M4tC9bFmu9pSbW0Okw29tbSkEsM"
+"osUsername"=hex(2):25,00,55,00,53,00,45,00,52,00,4E,00,41,00,4D,00,45,00,25,00,00,00
+"machineName"=hex(2):25,00,43,00,4F,00,4D,00,50,00,55,00,54,00,45,00,52,00,4E,00,41,00,4D,00,45,00,25,00,00,00
+"domain"=hex(2):25,00,55,00,53,00,45,00,52,00,44,00,4F,00,4D,00,41,00,49,00,4E,00,25,00,00,00
+"region"="Global"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Edge]
+"ExtensionManifestV2Availability"=dword:00000003
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Edge\3rdparty]
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Edge\3rdparty\extensions]
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Edge\3rdparty\extensions\oedggboaecbkcpnmkmdglidmfblggplg]
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Edge\3rdparty\extensions\oedggboaecbkcpnmkmdglidmfblggplg\policy]
+"accessToken"="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwczovL2xvZ2luLmlzbGFuZC5pby90ZW5hbnRJZCI6ImRwYWsxIiwiaHR0cHM6Ly9sb2dpbi5pc2xhbmQuaW8vdmVyc2lvbiI6NSwianRpIjoiZTY5Y2NiZmEtZjRhZi00ZmU2LTlmZmQtMDQ2ZWNiMmMzMzRlIiwiZ2l2ZW5fbmFtZSI6IlFBIERGVyIsImZhbWlseV9uYW1lIjpudWxsLCJuYW1lIjoiUUEgREZXICIsImVtYWlsIjoiaXNsYW5kLWV4dGVuc2lvbi11c2VyQGNjYzNlODExLTM5MjQtNGY3OC1iZGYzLWM0NmFkNGE2N2I5MSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6ImlzbGFuZC1leHRlbnNpb24tdXNlckBjY2MzZTgxMS0zOTI0LTRmNzgtYmRmMy1jNDZhZDRhNjdiOTEiLCJlbmRwb2ludF9hZ2VudCI6IkZhbHNlIiwiYXVkIjoiaHR0cHM6Ly9hdXRoMC1qd3QtYXV0aG9yaXplciIsImlzcyI6Imh0dHBzOi8vaW50ZXJuYWwuaXNsYW5kLmlvIiwiYXpwIjoiVzd1QUN5UW9EQzg4eldaN2JWTzBza2VpRTJBYUwzRGUiLCJzdWIiOiJzYW1scHxpc2xhbmQtc2FtbC1tYy1wcm9kdWN0aW9ufDAwdXBvdm1taGJTRmt2M1hNNWQ3IiwiaHR0cHM6Ly9pc2xhbmQuaW8vY2xhaW1zL2FsbG93VXNlckRldGFpbHNGcm9tSGVhZGVycyI6InRydWUiLCJleHAiOjIwNjk3MDQ5NjQsImlhdCI6MTc1NDM0NDk2NH0.SEg1X19MNnAc41q_M4tC9bFmu9pSbW0Okw29tbSkEsM"
+"osUsername"=hex(2):25,00,55,00,53,00,45,00,52,00,4E,00,41,00,4D,00,45,00,25,00,00,00
+"machineName"=hex(2):25,00,43,00,4F,00,4D,00,50,00,55,00,54,00,45,00,52,00,4E,00,41,00,4D,00,45,00,25,00,00,00
+"domain"=hex(2):25,00,55,00,53,00,45,00,52,00,44,00,4F,00,4D,00,41,00,49,00,4E,00,25,00,00,00
+"region"="Global"
