@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Carol Davis",
+      "email": "carol@example.com",
+      "isActive": true
+    }
+  ]
+}
