@@ -4,6 +4,7 @@ John Smith
 Bob Jones
 Timothy Rayburn
 James Tolbert
+CASHIER    <--- keyword
 
 Phone Numbers:
             Canada             +1 416-555-7890
@@ -57,12 +58,13 @@ US Bank Routing Number
 
 -----------------------------Bank Acc (9-Digit)
 083000108
-041000124
-031000053
+041000124   031000053
+000555444
 
 -----------------------------Bank Acc (10-Digit)
 0987654321
-1234567890
+1234567890     1234555890
+4443332222
 
 
 
