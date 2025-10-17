@@ -1,92 +1,65 @@
 ---------------------- Sample DLP Data ----------------------
-Names   and   U.S.Phone:  
-John Smith              (997)-????
-Bob Jones               ????
-Timothy Rayburn         685-376-3474         
-James Tolbert           (654)-753-5235 
-CASHIER    <--- keyword
-
 Phone Numbers:
-            Canada             ????
-            United States      ????
-            Mexico             ????
-            United Kingdom     ????
-            Australia          ????
-            Germany            ????
-            France             ???? 56 78
-            Japan              ????
-            India              ????
-            Brazil             ????-5678
-            Russia             ????
-            China              ????
-            South Korea        ????
-            Singapore          ????
-            South Africa       ????
+            Canada             +1 416-555-7890
+            United States      +1 555-123-4567
+            Mexico             +52 55-1234-5678
+            United Kingdom     +44 7911-123456
+            Australia          +61 412-345-678
+            Germany            +49 1512-3456789
+            France             +33 6 12 34 56 78
+            Japan              +81 90-1234-5678
+            India              +91 98765-43210
+            Brazil             +55 11 91234-5678
+            Russia             +7 912-345-6789
+            China              +86 138 0013 8000
+            South Korea        +82 10-1234-5678
+            Singapore          +65 9123 4567
+            South Africa       +27 82-123-4567
 
 Birthdate (BDAY, DOB): 
-            ????   ????   ????    ????
-            ????   ????   ????
+            1955-11-11   1955-1-11   1955-01-1    1955-1-1
+            01-01-2011   1-11-2022   01-1-2023
             1/12/2002    11/1/2003   11/11/2011
-            11/11/25     ????
+            11/11/25     11-11-25
             
 
-US Social Security Number (SSN) :        	       	????     ????     ????
-US Taxpayer Identification Number (ITIN):   	   	????     ????     ????
+US Social Security Number (SSN) :        	       	564-32-3453     452-45-2532     546-22-5342
+US Taxpayer Identification Number (ITIN):   	   	933-76-3433     912-85-4432     942-92-7332
 US Preparer Taxpayer Identification Number (PTIN): 	P12345678       P98765432
 
 Healthcare National Provider:
-    Ascension Health:            ????
-    CommonSpirit Health:         ????
-    HCA Healthcare:              ????
-    Kaiser Permanente:           ????
-    Mayo Clinic:                 ????
+    Ascension Health:            1528020845
+    CommonSpirit Health:         1083236021
+    HCA Healthcare:              1881655060
+    Kaiser Permanente:           1447239088
+    Mayo Clinic:                 1245203306
 
 
 US Bank Routing Number
-   JPMorgan Chase Bank           ????
-   Bank of America               ????            ????
-   Citibank                      ????            ????
-   Wells Fargo Bank              ????            ????
-   U.S. Bank                     ????            ????
-   PNC                           ????
-                        
------------------------------PNC (11-Digit) Account  ????    75158251045 16340496903 
-????
-????
-  ????  
-????   ????
-
------------------------------Bank Acc (9-Digit)
-????
-????   ????
-????
-
------------------------------Bank Acc (10-Digit)
-????
-????     ????
-????
-
-
-
+   JPMorgan Chase Bank           021000021
+   Bank of America               121000358            026009593
+   Citibank                      021000089            091409571
+   Wells Fargo Bank              121042882            121000248
+   U.S. Bank                     091000022            031101266
 
 Credit Cards (CCN):
     Visa
-            ????
-            ????
+            4100-3543-3242-3423
+            4270463888813020
     AMEX
-            ????
-            ????
+            3448-0246-6336-5664
+            3739538574255825
     Mastercard
-            ????
-            ????
+            2916-6734-7572-5015
+            5218014427039266
     Discover
-            ????
-            ????
+            6332-0423-4322-4322
+            6565234567624352
 
 Drivers License:
             CA: A1234567
-            TX: ????
-            NY: ????
+            TX: 19990095
+            NY: 123456789
             FL: F123456789012
             IL: D123456789012
             WA: WDL1234567AB
